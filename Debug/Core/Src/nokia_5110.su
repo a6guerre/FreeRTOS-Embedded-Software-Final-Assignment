@@ -1,0 +1,9 @@
+nokia_5110.c:11:6:LCD_Write	16	static
+nokia_5110.c:25:6:Nokia5110_SetCursor	16	static
+nokia_5110.c:33:6:Clear_Display	24	static
+nokia_5110.c:47:6:Nokia_Reset	16	static
+nokia_5110.c:54:6:SPI_WriteByte	24	static
+nokia_5110.c:64:6:SPI_ReadByte	16	static
+nokia_5110.c:72:6:Nokia_Config	16	static
+nokia_5110.c:96:6:Nokia5110_OutString	16	static
+nokia_5110.c:103:6:Nokia5110_OutChar	24	static
